@@ -5,3 +5,17 @@
 ### 1. Структура решения
 -  Основное консольное приложение: 'Battlegrounds-HS-Hub'
 -  Библиотека классов (логика): 'BattlegroundsHubHS.Core'
+
+### 2. Модели данных
+В проекте BattlegroundsHub.Core в папке Models:
+- HeroTier.cs - перечисление рейтингов (S, A, B, C, D, F)
+- MinionType.cs - перечисление типов существ (Пират, Демон, Механизм и т.д.)
+- Hero.cs - модель героя с полями Id, Name, Title, Tier, Description
+- Minion.cs - модель миньона с полями Id, Name, TavernTier, Type, Attack, Health, Effect
+
+### 3. Хранение в памяти 
+В папке Services создан класс InMemoryStorage:
+- Статические коллекции Heroes и Minions
+- Тестовые данные (3 героя, 3 миньона)
+- Методы AddHero() и AddMinion() с автоматической генерацией ID
+
