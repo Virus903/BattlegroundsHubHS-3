@@ -1,0 +1,11 @@
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\bin\Debug\net8.0\BattlegroundsHubHS.core.deps.json
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\bin\Debug\net8.0\BattlegroundsHubHS.core.dll
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\bin\Debug\net8.0\BattlegroundsHubHS.core.pdb
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\obj\Debug\net8.0\BattlegroundsHubHS.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\obj\Debug\net8.0\BattlegroundsHubHS.core.AssemblyInfoInputs.cache
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\obj\Debug\net8.0\BattlegroundsHubHS.core.AssemblyInfo.cs
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\obj\Debug\net8.0\BattlegroundsHubHS.core.csproj.CoreCompileInputs.cache
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\obj\Debug\net8.0\BattlegroundsHubHS.core.dll
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\obj\Debug\net8.0\refint\BattlegroundsHubHS.core.dll
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\obj\Debug\net8.0\BattlegroundsHubHS.core.pdb
+C:\Users\DELSI\source\repos\BattlegroundsHubHS.core\obj\Debug\net8.0\ref\BattlegroundsHubHS.core.dll

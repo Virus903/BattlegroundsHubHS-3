@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battlegrounds-HS-Hub", "Battlegrounds-HS-Hub.csproj", "{8730655C-1122-49B7-8E06-6BE28B4B9EF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattlegroundsHubHS.core", "..\BattlegroundsHubHS.core\BattlegroundsHubHS.core.csproj", "{341C2444-DDFE-435D-9616-C190EC7AFD19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8730655C-1122-49B7-8E06-6BE28B4B9EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8730655C-1122-49B7-8E06-6BE28B4B9EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8730655C-1122-49B7-8E06-6BE28B4B9EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8730655C-1122-49B7-8E06-6BE28B4B9EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341C2444-DDFE-435D-9616-C190EC7AFD19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341C2444-DDFE-435D-9616-C190EC7AFD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341C2444-DDFE-435D-9616-C190EC7AFD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341C2444-DDFE-435D-9616-C190EC7AFD19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C1DAAFE-E965-4BD2-A316-81AF65F7A005}
+	EndGlobalSection
+EndGlobal
