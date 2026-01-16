@@ -26,4 +26,4 @@
 - Взаимодействие с InMemoryStorage
 
 ### Как проверить работу
-- клонировать репозиторий гит -
+- клонировать репозиторий гит - [https://github.com/Virus903/BattlegroundsHubHS-3]
